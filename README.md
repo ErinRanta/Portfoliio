@@ -4,4 +4,4 @@
 
 You will find my portfolio ##HERE(add link when it deploys)##
 
-Please do not hesitate to contact me with any questions, coments, or collaborations!
+Please do not hesitate to contact me with any questions, comments, or collaborations!
