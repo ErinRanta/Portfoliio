@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Erin Ranta. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Erin Ranta. I am a software developer based out of New York City. I have always been in the field of helping people improve their lives, and now I strive to do that with technology. I also bring my creative eye with me and am excited to blend creativity with technology.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Odd-Duck",
+        "startDate": "2022",
+        "description": "This was a project from my 201 course where I implemented a random generator to gather and save data by saving clicks on a favorite image item from the user. Javascript, CSS, HTML, and Chart.js were used.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/OddDuck.png"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +34,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Cloud-Ten",
+        "startDate": "2022",
+        "description": "Cloud-Ten was our 201 group project. I worked on a lot of the front page styling, and a form that users enter data. It was my first time using animations via CSS. The project included Javascript, HTML, and CSS.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Cloudten.png",
+          "images/portfolio/Cloudten.png"
+        
         ],
         "url": "https://github.com",
         "technologies": [

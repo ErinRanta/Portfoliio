@@ -5,16 +5,16 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/ErinRanta",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/soberpilatesmom/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Headshot.jpeg"
     },
     "skills": {
       "icons": [
@@ -29,13 +29,13 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Java",
+          "class": "devicon-java-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "90"
         },
         {
@@ -44,8 +44,8 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Swift",
+          "class": "devicon-swift-plain",
           "level": "75"
         },
         {
